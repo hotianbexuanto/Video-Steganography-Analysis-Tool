@@ -80,6 +80,7 @@ output_dir/
 - Processing large videos may take a long time
 - The output videos will maintain the original video's frame rate and audio
 - **All processes are executed sequentially, which may result in slower processing speeds**. Please be patient when processing large files.
+- **This script was created using AI and has been tested on Windows 10. It should work on other systems, but please test or modify as needed.**
 
 ## System Requirements
 
